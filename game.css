@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(60, 55, 56, 0.613);
+    text-align: center;
+}
+p{
+  
+    font-family: serif;
+    font-size: 50px;
+}
+button{
+   padding:10px 10px;
+   background-color: bisque;
+
+}
